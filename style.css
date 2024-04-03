@@ -1,0 +1,158 @@
+BODY{
+  background-color: black;
+}
+
+#SlayerHeading1{
+  color: azure;
+  text-align: center;
+  font-family: Arial;
+  font-size: 120%;
+}
+
+#SlayerHeading2{
+  position: absolute;
+  color: rgb(243, 214, 161);
+  top: 105px;
+  left: 40px;
+  right: 50px;
+  text-decoration: underline;
+  font-family: Arial;
+  font-size: 100%
+}
+
+#SlayerHeading3{
+  position: absolute;
+  color: azure;
+  top: 140px;
+  left: 40px;
+  right: 50px;
+  font-family: Arial;
+  font-size: 100%
+}
+
+#SlayerHeading4{
+  position: absolute;
+  color: rgb(243, 214, 161);
+  top: 470px;
+  left: 40px;
+  right: 50px;
+  font-family: Arial;
+  text-decoration: underline;
+  font-size: 100%
+}
+
+#SlayerHeading5{
+  position: absolute;
+  color: azure;
+  top: 495px;
+  left: 40px;
+  right: 50px;
+  font-family: Arial;
+  font-size: 100%
+}
+
+#SlayerHeading6{
+  position: absolute;
+  color: rgb(243, 214, 161);
+  top: 773px;
+  left: 40px;
+  right: 50px;
+  font-family: Arial;
+  text-decoration: underline;
+  font-size: 100%
+}
+
+#SlayerHeading7{
+  position: absolute;
+  color: azure;
+  top: 810px;
+  left: 40px;
+  right: 50px;
+  font-family: Arial;
+  font-size: 100%
+}
+
+.BackGroundImages{
+  position: absolute;
+}
+
+#BackGroundImage1{
+  position: relative;
+  background-size: cover;
+  top: 150px;
+  left: 400px;
+  height: 250px;
+  width: 250px;
+  border-radius: 200px;
+}
+
+figure{
+  position: absolute;
+}
+
+figcaption{
+  color: chartreuse;
+  padding-top: 130px;
+  padding-left: 500px;
+  font-family: Arial;
+}
+
+.Hovers{
+  position: absolute;
+}
+
+#Hover1{
+  color: rgb(22, 218, 218);
+  font-family: Arial;
+  font-size: 100%;
+  top: 95px;
+  left: 1400px;
+}
+
+#Hover1:hover{
+  font-size: 17px;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+#Hover2{
+  color: rgb(22, 218, 218);
+  font-family: Arial;
+  font-size: 100%;
+  top: 95px;
+  left: 1500px;
+}
+
+#Hover2:hover{
+  font-size: 17px;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+#Hover3{
+  color: rgb(22, 218, 218);
+  font-family: Arial;
+  font-size: 100%;
+  top: 95px;
+  left: 1740px;
+}
+
+#Hover3:hover{
+  font-size: 17px;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+#Hover4{
+  color: rgb(22, 218, 218);
+  font-family: Arial;
+  font-size: 100%;
+  top: 95px;
+  left: 1840px;
+}
+
+#Hover4:hover{
+  font-size: 17px;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
